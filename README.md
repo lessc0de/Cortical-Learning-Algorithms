@@ -1,4 +1,4 @@
-corticalLearningAlgorithms
+Cortical Learning Algorithms
 ==========================
 
 My own Java implementation of the HTM Cortical Learning Algorithms (http://numenta.org/).
